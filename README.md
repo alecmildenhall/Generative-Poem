@@ -30,5 +30,5 @@ Can't find correct port:
 No edits were made to the program, but it won't compile:
 - Make sure to edit your User_Setup_Select.h file before uploading generative_poem.ino. 
 
-Additional resources for setup:
+#### Additional resources for setup:
 [ESP32 TTGO T-Display Arduino Demo](https://www.youtube.com/watch?v=adLUgmCJKnM)
