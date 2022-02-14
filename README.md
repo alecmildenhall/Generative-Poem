@@ -1,5 +1,5 @@
 # Generative-Poem
-The project is a creative implementation of Stevie Smith's "Not Waving but Drowning" poem for ESP32 TTGO T-Display. generative_poem.ino displays the poem text in the stylistic interpretation of Amber Mildenhall using the SPI and TFT_eSPI libraries.
+The project is a creative implementation of Stevie Smith's ["Not Waving but Drowning"](https://www.poetryfoundation.org/poems/46479/not-waving-but-drowning) poem for ESP32 TTGO T-Display. generative_poem.ino displays the poem text in the stylistic interpretation of Amber Mildenhall using the SPI and TFT_eSPI libraries.
 
 Link to Medium blog post with more information: [INSERT LINK HERE]
 
