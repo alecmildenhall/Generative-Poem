@@ -144,6 +144,7 @@ void loop() {
     delay(150);
    }
 
+  // And not waving but
   text = "And not waving but";
   width = text.length();
   s = "";
@@ -178,7 +179,7 @@ void loop() {
     delay(100);
    }
 
-   // he always loved
+  // he always loved
   text = "he always loved";
   width = text.length();
   s = "";
@@ -190,7 +191,7 @@ void loop() {
     delay(100);
    }
 
-   // larking
+  // larking
   text = "larking";
   width = text.length();
   s = "";
@@ -312,7 +313,7 @@ void loop() {
     delay(100);
    }
 
-   // always
+  // always
   text = "always";
   width = text.length();
   s = "";
@@ -344,8 +345,8 @@ void loop() {
    }
    delay(2000);
 
-   // And not waving
-   tft.setTextSize(2);
+  // And not waving
+  tft.setTextSize(2);
   tft.fillScreen(TFT_BLACK);
   tft.setTextColor(TFT_BLUE, TFT_BLACK);
   text = "And not waving";
@@ -376,7 +377,7 @@ void loop() {
    }
    delay(500);
 
-   // DROWNING
+  // DROWNING
   tft.setTextSize(4);
   tft.fillScreen(TFT_WHITE);
   
