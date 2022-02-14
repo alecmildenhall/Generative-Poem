@@ -1,9 +1,9 @@
 # Generative-Poem
-Creative implementation of Stevie Smith's "Not Waving but Drowning" for ESP32 TTGO T-Display
+Creative implementation of Stevie Smith's "Not Waving but Drowning" poem for ESP32 TTGO T-Display
 
 [INSERT PHOTO HERE]
 
-The Arduino IDE version 1.8.19 for MacOS was used to write the code for this project. An ESP32 TTGO T-Display was connected to the host computer via a USB cable which was selected as the port under Tools in the IDE. 
+The Arduino IDE version 1.8.19 for MacOS was used to write the code for this project. An ESP32 TTGO T-Display was connected to the host computer via a USB cable which was selected as the port under Tools in the IDE preferences. 
 
 Setup:
 - Connect ESP32 TTGO T-Display to computer with Arduino IDE with a power and data transferring USB cable
