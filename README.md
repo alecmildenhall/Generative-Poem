@@ -15,7 +15,7 @@ The Arduino IDE version 1.8.19 for MacOS was used to write the code for this pro
 
 
 ## Setup:
-- Connect ESP32 TTGO T-Display to computer with Arduino IDE with a power and data transferring USB cable
+- Connect ESP32 TTGO T-Display to computer with [Arduino IDE](https://www.arduino.cc/en/software) with a power and data transferring USB cable
 - Go into preferences in the Arduino IDE and enable the ESP32 board by adding the following URL to the board manager:
   - https://dl.espressif.com/dl/package_esp32_index.json
 - Under Tools, go to Board and select TTGO T1 under ESP32 Arduino
