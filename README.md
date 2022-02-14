@@ -16,8 +16,15 @@ The Arduino IDE version 1.8.19 for MacOS was used to write the code for this pro
 - Under Tools, go to Manage Libraries and search for "tft_eSPI"
 - Install TFT_eSPI by Bodmer
 - Update your User_Setup_Select.h file likely under Arduino/libraries/TFT_eSPI/User_Setup_Select.h
-  - Comment out line 22, //#include <User.Setup.h>
-  - Uncomment line 52, #include <User_Setups/Setup25_TTGO_T_Display.h>
+
+  Comment out line 22 to be the following:
+  ```bash
+  //#include <User.Setup.h>
+  ```
+  Uncomment line 52 to be the following:
+  ```bash
+  #include <User_Setups/Setup25_TTGO_T_Display.h>
+  ```
 - Open generative_art.ino and upload it
 
 ## Troubleshooting:
