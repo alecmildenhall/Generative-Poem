@@ -21,7 +21,7 @@ The Arduino IDE version 1.8.19 for MacOS was used to write the code for this pro
   ```bash
   //#include <User.Setup.h>
   ```
-  Uncomment line 52 to be the following:
+  Uncomment line 53 to be the following:
   ```bash
   #include <User_Setups/Setup25_TTGO_T_Display.h>
   ```
