@@ -27,6 +27,9 @@ The Arduino IDE version 1.8.19 for MacOS was used to write the code for this pro
   ```
 - Open generative_art.ino and upload it
 
+## Demonstration
+Link
+
 ## Troubleshooting:
 ESP32 TTGO T-Display won't turn on:
 - Make sure a blue light is being emitted from device, if not, this indicates that there is currently no power connected to the device. Try flipping the orientation of your power source (USB cable or wire connected to plugin for a battery). It is possible that your device may only work in one orientation.
