@@ -1,11 +1,18 @@
 # Generative-Poem
 The project is a creative implementation of Stevie Smith's ["Not Waving but Drowning"](https://www.poetryfoundation.org/poems/46479/not-waving-but-drowning) poem for the ESP32 TTGO T-Display. The file generative_poem.ino can be used to display the poem content in the stylistic interpretation of Amber Mildenhall using the SPI and TFT_eSPI libraries for the ESP32 TTGO T-Display.
 
+![IMG_3546](https://user-images.githubusercontent.com/60529049/153943241-40506bc6-87be-45f7-a228-13288f03f735.jpg)
+
 Link to Medium blog post [here](https://medium.com/@ambermildenhall/generative-art-stevie-smiths-not-waving-but-drowning-22c22440b658) with more information.
 
-[INSERT PHOTO HERE]
-
 The Arduino IDE version 1.8.19 for MacOS was used to write the code for this project. An ESP32 TTGO T-Display was connected to the host computer via a USB cable which was selected as the port under Tools in the IDE preferences. 
+
+## Materials:
+![IMG_3548](https://user-images.githubusercontent.com/60529049/153944418-56c21fdf-7444-458c-a28d-6c503ee6f7e6.jpg)
+- ESP32 TTGO T-Display
+- USB compatible with computer
+- Wires to connect 3.7V 500mAh battery to ESP32
+
 
 ## Setup:
 - Connect ESP32 TTGO T-Display to computer with Arduino IDE with a power and data transferring USB cable
@@ -28,7 +35,7 @@ The Arduino IDE version 1.8.19 for MacOS was used to write the code for this pro
 - Open generative_art.ino and upload it
 
 ## Demonstration:
-Link
+https://youtu.be/b8dKZfWPE3s
 
 ## Troubleshooting:
 ESP32 TTGO T-Display won't turn on:
