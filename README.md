@@ -7,7 +7,7 @@ Link to Medium blog post with more information: [INSERT LINK HERE]
 
 The Arduino IDE version 1.8.19 for MacOS was used to write the code for this project. An ESP32 TTGO T-Display was connected to the host computer via a USB cable which was selected as the port under Tools in the IDE preferences. 
 
-Setup:
+## Setup:
 - Connect ESP32 TTGO T-Display to computer with Arduino IDE with a power and data transferring USB cable
 - Go into preferences in the Arduino IDE and enable the ESP32 board by adding the following URL to the board manager:
   - https://dl.espressif.com/dl/package_esp32_index.json
