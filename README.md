@@ -27,7 +27,7 @@ The Arduino IDE version 1.8.19 for MacOS was used to write the code for this pro
   ```
 - Open generative_art.ino and upload it
 
-## Demonstration
+## Demonstration:
 Link
 
 ## Troubleshooting:
