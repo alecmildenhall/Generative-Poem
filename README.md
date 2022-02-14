@@ -10,4 +10,4 @@ ESP32 TTGO T-Display won't turn on:
 - Make sure a blue light is being emitted from device, if not, this indicates that there is currently no power connected to the device. Try flipping the orientation of your power source (USB cable or wire connected to plugin for a battery) 
 
 Additional resources for setup:
-https://www.youtube.com/watch?v=adLUgmCJKnM
+[ESP32 TTGO T-Display Arduino Demo](https://www.youtube.com/watch?v=adLUgmCJKnM)
