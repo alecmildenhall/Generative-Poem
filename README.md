@@ -3,7 +3,7 @@ The project is a creative implementation of Stevie Smith's ["Not Waving but Drow
 
 ![IMG_3546](https://user-images.githubusercontent.com/60529049/153943241-40506bc6-87be-45f7-a228-13288f03f735.jpg)
 
-Link to Medium blog post [here](https://medium.com/@ambermildenhall/generative-art-stevie-smiths-not-waving-but-drowning-22c22440b658) with more information.
+Link to Medium blog post [here](https://medium.com/@alecmildenhall/generative-art-stevie-smiths-not-waving-but-drowning-22c22440b658) with more information.
 
 The Arduino IDE version 1.8.19 for MacOS was used to write the code for this project. An ESP32 TTGO T-Display was connected to the host computer via a USB cable which was selected as the port under Tools in the IDE preferences. 
 
